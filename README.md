@@ -1,5 +1,10 @@
-<h2 align="center">ELITE: Efficient Gaussian Head Avatar from a Monocular Video via Learned Initialization and TEst-time Generative Adaptation</h2>
-
+[//]: # (<h2 align="center">ELITE: Efficient Gaussian Head Avatar from<br>a Monocular Video via Learned Initialization and TEst-time Generative Adaptation</h2>)
+<h2 align="center">
+  <font color="#3c9bd4"><b>ELITE</b></font>: 
+  <font color="#3c9bd4"><b>E</b></font>fficient Gaussian Head Avatar from<br>
+  a Monocular Video via <font color="#3c9bd4"><b>L</b></font>earned <font color="#3c9bd4"><b>I</b></font>nitialization and 
+  <font color="#3c9bd4"><b>TE</b></font>st-time Generative Adaptation
+</h2>
 
 <p align="center">
 <a href="https://kim-youwang.github.io"><strong>Kim Youwang</strong></a>
@@ -29,7 +34,7 @@
 </p>
 
 <p align="center">
-  <video src="media/teaser.mp4" width="100%" controls autoplay loop muted></video>
+  <img src="media/teaser.gif" width="100%">
 </p>
 
 
