@@ -1,10 +1,4 @@
-[//]: # (<h2 align="center">ELITE: Efficient Gaussian Head Avatar from<br>a Monocular Video via Learned Initialization and TEst-time Generative Adaptation</h2>)
-<h2 align="center">
-  <font color="#3c9bd4"><b>ELITE</b></font>: 
-  <font color="#3c9bd4"><b>E</b></font>fficient Gaussian Head Avatar from<br>
-  a Monocular Video via <font color="#3c9bd4"><b>L</b></font>earned <font color="#3c9bd4"><b>I</b></font>nitialization and 
-  <font color="#3c9bd4"><b>TE</b></font>st-time Generative Adaptation
-</h2>
+<h2 align="center">ELITE: Efficient Gaussian Head Avatar from a Monocular Video via Learned Initialization and TEst-time Generative Adaptation</h2>
 
 <p align="center">
 <a href="https://kim-youwang.github.io"><strong>Kim Youwang</strong></a>
@@ -16,7 +10,6 @@
 <a href="https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html"><strong>Gerard Pons-Moll</strong></a>
 ·
 <a href="https://ami.kaist.ac.kr/members/tae-hyun-oh"><strong>Tae-Hyun Oh</strong></a>
-<br>
 </p>
 <h3 align="center">CVPR 2026</h3>
 
